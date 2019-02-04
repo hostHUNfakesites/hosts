@@ -37,6 +37,7 @@ exkluziv-videok.com
 extremblog.com
 ezerdekes.eu
 ezt-figyeld.com
+
 ezt-figyeld-blog.com
 eznempiti.eu
 eztnezd.net
@@ -111,7 +112,7 @@ kozszolgalat.com
 kukucs.info
 kutyapisti.eu
 lajkolj.info
-http://latnodkell.com
+latnodkell.com
 lapzarta.com
 lattadmar.eu
 ledobbensz.blogspot.hu
